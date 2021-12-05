@@ -85,6 +85,9 @@ export default function Index() {
               </Link>
             </li>
           ))}
+          <li>
+            <Link to="/posts">Posts</Link>
+          </li>
         </ul>
         <h2>Resources</h2>
         <ul>
